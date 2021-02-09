@@ -1,0 +1,7 @@
+com/project/customUrl/controller/CustomUrlController.class
+com/project/customUrl/CustomUrlApplication.class
+com/project/customUrl/entity/CustomUrlEntity.class
+com/project/customUrl/service/CustomUrlMappingService.class
+com/project/customUrl/utils/Constants.class
+com/project/customUrl/model/CustomUrl.class
+com/project/customUrl/repository/CustomUrlEntityRepo.class
