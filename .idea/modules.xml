@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customUrl/customUrl.iml" filepath="$PROJECT_DIR$/customUrl/customUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grihini.iml" filepath="$PROJECT_DIR$/grihini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location/location.iml" filepath="$PROJECT_DIR$/location/location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth/oauth.iml" filepath="$PROJECT_DIR$/oauth/oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onboarding/onboarding.iml" filepath="$PROJECT_DIR$/onboarding/onboarding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/panel/panel.iml" filepath="$PROJECT_DIR$/panel/panel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>
